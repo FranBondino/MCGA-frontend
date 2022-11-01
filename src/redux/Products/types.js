@@ -1,0 +1,3 @@
+export const SET_PRODUCTS = 'SET_PRODUCTS'
+export const SET_LOADINGS = 'SET_LOADINGS'
+export const DISMISS_LOADING = 'DISMISS_LOADING'
